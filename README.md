@@ -59,3 +59,6 @@ supabase/
 White backgrounds with a purple gradient primary (`#7c3aed → #a855f7`),
 rounded-2xl cards, gradient-initial avatars, and generous spacing throughout.
 See `src/app/globals.css` for the shared gradient/card/button utilities.
+
+##
+By Benedicta Nzekwe
